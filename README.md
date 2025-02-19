@@ -50,10 +50,6 @@ pip install -r requirements.txt
 - **Executando o deploy.py**: Navegue até o diretório onde está localizado o arquivo Deploy.py e execute no terminal o comando abaixo:
 
 ```plaintext
-python deploy.py
-
-ou
-
 streamlit run Deploy.py
 ```
 
